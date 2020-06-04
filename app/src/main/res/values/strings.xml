@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Erchihin5.2.2</string>
+    <string name="login_hint">login</string>
+    <string name="password_hint">password</string>
+    <string name="check_save_external">checksave</string>
+    <string name="login_btn_text">loginbtn</string>
+    <string name="registration_btn_text">regbtn</string>
+    <string name="error_input_empty">error</string>
+    <string name="toast_registration_ok">toastregok</string>
+    <string name="toast_not_registered">toastnot</string>
+    <string name="toast_enter_ok">toastok</string>
+    <string name="toast_enter_failed">toastfailed</string>
+</resources>
